@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 18 20:49:17 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016c-a4c6-5481-000003e709b8 
+on database directory /Users/weiyudang/Documents/gitRep/spark_relation/kafka/spark_consumer/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@bf6b6cf 
+Loaded from file:/Users/weiyudang/software/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Users/weiyudang/Documents/gitRep/spark_relation/kafka/spark_consumer
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
